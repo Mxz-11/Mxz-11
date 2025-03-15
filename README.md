@@ -6,7 +6,7 @@
 ### 📖 About Me
 💻 Passionate about software development and problem-solving.  
 🚀 Always learning and exploring new technologies.  
-📫 Reach me at alu.167442@usj.es(mailto:alu.167442@usj.es)  
+📫 Reach me at [alu.167442@usj.es](mailto:alu.167442@usj.es)  
 
 ---
 
