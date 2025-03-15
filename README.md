@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋, I'm Maximo </h1>
+2<h1 align="center">Hi there! 👋, I'm Maximo </h1>
 <h3 align="center">A passionate engineer and technology enthusiast.</h3>
 
 ---
@@ -29,8 +29,8 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/maximo-valenciano-alvarez/))
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/Mxz-11))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username](https://www.linkedin.com/in/maximo-valenciano-alvarez/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username](https://github.com/Mxz-11)
 
 ---
 
