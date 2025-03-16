@@ -3,6 +3,10 @@
 
 ---
 
+![Maximo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mxz-11&show_icons=true&theme=tokyonight)
+
+---
+
 ### 📖 About Me
 💻 Passionate about software development and problem-solving.  
 🚀 Always learning and exploring new technologies.  
