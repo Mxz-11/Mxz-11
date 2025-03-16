@@ -13,98 +13,47 @@
 ### 🛠 Technologies & Tools
 
 #### 🚀 Languages
-<p align="center">
-  <a href="https://cplusplus.com/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  </a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  </a>
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-</p>
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)](https://cplusplus.com/doc/)  
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 
 ---
 
 #### 🔧 Development  
 **Frameworks & Libraries**  
-<p align="center">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  </a>
-  <a href="https://nodejs.org/en/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
-  </a>
-  <a href="https://spring.io/guides" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/>
-  </a>
-</p>
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/docs/)  
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)  
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/guides)  
 
 **Databases & ORMs**  
-<p align="center">
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  </a>
-  <a href="https://www.sqlite.org/docs.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  </a>
-</p>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)  
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)  
 
 ---
 
-#### 🛡 Pentest Toolkit
-<p align="center">
-  <a href="https://www.kali.org/docs/" target="_blank">
-    <img src="https://www.kali.org/images/logos/kali-logo.svg" alt="Kali Linux" width="50" height="50"/>
-  </a>
-  <a href="https://docs.metasploit.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Metasploit-logo.png" alt="Metasploit" width="50" height="50"/>
-  </a>
-  <a href="https://nmap.org/book/man.html" target="_blank">
-    <img src="https://www.nmap.org/favicon.ico" alt="Nmap" width="50" height="50"/>
-  </a>
-  <a href="https://portswigger.net/burp/documentation" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burp_suite_logo.svg/1024px-Burp_suite_logo.svg.png" alt="Burp Suite" width="50" height="50"/>
-  </a>
-</p>
+#### 🛡 Pentest Toolkit  
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/docs/)  
+[![Metasploit](https://img.shields.io/badge/Metasploit-1572B6?style=for-the-badge&logo=metasploit&logoColor=white)](https://docs.metasploit.com/)  
+[![Nmap](https://img.shields.io/badge/Nmap-00479C?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/book/man.html)  
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp/documentation)  
 
 ---
 
-#### 🎯 Other Stuff
-<p align="center">
-  <a href="https://www.linux.org/pages/download/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  </a>
-  <a href="https://docs.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="https://docs.github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  </a>
-</p>
+#### 🎯 Other Stuff  
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/pages/download/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)  
 
 ---
 
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximo-valenciano-alvarez/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mxz-11)
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximo-valenciano-alvarez/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mxz-11)  
 
 ---
 
