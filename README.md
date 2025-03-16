@@ -4,6 +4,10 @@
 
 ---
 
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
+
 ### 📖 About Me
 💻 Passionate about software development and problem-solving.  
 🚀 Always learning and exploring new technologies.  
