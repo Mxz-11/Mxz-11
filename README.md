@@ -77,7 +77,11 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
   <a href="https://makerworld.com/en/@max_zgz">
     <img src="https://img.shields.io/badge/MakerWorld-00AEEF?style=for-the-badge&logo=makerworld&logoColor=white">
   </a>
+  <a href="https://wuolah.com/profile/Mxz11">
+    <img src="https://img.shields.io/badge/Wuolah-FFD700?style=for-the-badge&logo=bookstack&logoColor=white">
+  </a>
 </div>
+
 
 ---
 
