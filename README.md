@@ -5,7 +5,7 @@
 ---
 
 <h1 align="center">
-  ![Coding GIF]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://tenor.com/es/view/cats-cat-computer-gif-15556901))
+  <img src="https://tenor.com/view/cats-cat-computer-gif-15556901.gif" alt="Coding GIF">
 </h1>
 
 ---
