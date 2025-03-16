@@ -3,7 +3,7 @@
 
 ---
 
-![Maximo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mxz-11&show_icons=true&theme=tokyonight)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Maximo+🚀;Passionate+Engineer+%26+Tech+Enthusiast!)
 
 ---
 
