@@ -4,7 +4,9 @@
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<h1 align="center">
+  ![Coding GIF]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://tenor.com/es/view/cats-cat-computer-gif-15556901))
+</h1>
 
 ---
 
