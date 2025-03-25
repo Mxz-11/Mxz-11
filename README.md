@@ -43,6 +43,24 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
 
 ---
 
+#### 💾 Databases
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <a href="https://redis.io/documentation">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  </a>
+  <a href="https://www.postgresql.org/docs/">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a>
+  <a href="https://www.mongodb.com/docs/">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+  <a href="https://dev.mysql.com/doc/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+</div>
+
+---
+
 #### 🔧 Development  
 **Frameworks & Libraries**  
 <div align="center">
