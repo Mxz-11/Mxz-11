@@ -116,11 +116,7 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxz-11/mxz-11/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxz-11/mxz-11/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mxz-11/mxz-11/output/pacman-contribution-graph.svg">
-</picture>
+![pacman contribution graph](https://raw.githubusercontent.com/mxz-11/mxz-11/output/pacman-contribution-graph.svg)
 
 ---
 
