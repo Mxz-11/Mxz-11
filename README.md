@@ -116,6 +116,14 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxz-11/mxz-11/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxz-11/mxz-11/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mxz-11/mxz-11/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ### 📫 Connect with Me  
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <a href="https://www.linkedin.com/in/maximo-valenciano-alvarez/">
@@ -131,7 +139,6 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
     <img src="https://img.shields.io/badge/Wuolah-FFD700?style=for-the-badge&logo=bookstack&logoColor=white">
   </a>
 </div>
-
 
 ---
 
