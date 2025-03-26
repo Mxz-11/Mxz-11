@@ -18,7 +18,7 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
 
 📫 Reach me at [alu.167442@usj.es](mailto:alu.167442@usj.es)  
 
-⚡ Fun fact: My profile picture is inspired by a Shiba Inu meme, the same breed as my dog! I chose it because I'm a huge dog lover. 🐶
+⚡ Fun fact: My profile picture is inspired by a Shiba Inu meme (with the studio ghibli style), the same breed as my dog! I chose it because I'm a huge dog lover. 🐶
 
 ---
 
