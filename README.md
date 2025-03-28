@@ -76,6 +76,34 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
 
 ---
 
+#### Pyhon Libraries  
+
+<div align="center">
+  <a href="https://numpy.org/doc/">
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
+  <a href="https://pandas.pydata.org/docs/">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  </a>
+  <a href="https://opencv.org/">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  </a>
+  <a href="https://google.github.io/mediapipe/">
+    <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white">
+  </a>
+  <a href="https://github.com/serengil/deepface">
+    <img src="https://img.shields.io/badge/DeepFace-000000?style=for-the-badge&logo=deepface&logoColor=white">
+  </a>
+  <a href="https://scikit-learn.org/stable/">
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a>
+  <a href="https://matplotlib.org/stable/contents.html">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+  </a>
+</div>
+
+---
+
 #### 🛡 Pentest Toolkit  
 <div align="center">
   <a href="https://www.kali.org/docs/">
