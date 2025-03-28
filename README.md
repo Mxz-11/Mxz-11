@@ -76,7 +76,7 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
 
 ---
 
-#### Pyhon Libraries  
+#### 🧠 Pyhon Libraries  
 
 <div align="center">
   <a href="https://numpy.org/doc/">
@@ -141,6 +141,18 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
   </a>
   <a href="https://www.raspberrypi.com/documentation/">
     <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white">
+  </a>
+    <a href="https://www.autodesk.com/products/fusion-360/overview">
+    <img src="https://img.shields.io/badge/Fusion_360-FFB100?style=for-the-badge&logo=autodesk&logoColor=black">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>
+  <a href="https://git-scm.com/doc">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  </a>
+  <a href="https://www.markdownguide.org/">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   </a>
 </div>
 
