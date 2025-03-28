@@ -170,7 +170,7 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
   <a href="https://www.raspberrypi.com/documentation/">
     <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white">
   </a>
-    <a href="https://www.autodesk.com/products/fusion-360/overview">
+  <a href="https://www.autodesk.com/products/fusion-360/overview">
     <img src="https://img.shields.io/badge/Fusion_360-FFB100?style=for-the-badge&logo=autodesk&logoColor=black">
   </a>
   <a href="https://code.visualstudio.com/">
@@ -184,6 +184,18 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  <a href="https://unity.com/">
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+  </a>
+  <a href="https://www.eclipse.org/documentation/">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  </a>
+  <a href="https://filezilla-project.org/">
+    <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white">
+  </a>
+  <a href="https://colab.research.google.com/">
+    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black">
   </a>
 </div>
 
