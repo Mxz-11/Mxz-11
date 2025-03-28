@@ -64,7 +64,7 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
 ---
 
 #### 🔧 Development  
-**Frameworks & Libraries**  
+
 <div align="center">
   <a href="https://react.dev/docs/getting-started">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
