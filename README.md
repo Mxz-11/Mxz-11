@@ -182,9 +182,6 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
   <a href="https://www.markdownguide.org/">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
   <a href="https://unity.com/">
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
   </a>
