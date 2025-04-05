@@ -153,6 +153,27 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
   <a href="https://www.wireshark.org/docs/">
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
   </a>
+  <a href="https://nmap.org/ncat/">
+    <img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logoColor=white">
+  </a>
+  <a href="https://tools.kali.org/web-applications/whatweb">
+    <img src="https://img.shields.io/badge/WhatWeb-6A0DAD?style=for-the-badge&logoColor=white">
+  </a>
+  <a href="https://reverse-shell.sh/">
+    <img src="https://img.shields.io/badge/Reverse_Shell-FB4444?style=for-the-badge&logoColor=white">
+  </a>
+  <a href="https://curl.se/docs/">
+    <img src="https://img.shields.io/badge/cURL-0077AA?style=for-the-badge&logo=curl&logoColor=white">
+  </a>
+  <a href="https://www.cvedetails.com/">
+    <img src="https://img.shields.io/badge/CVE_Details-B60205?style=for-the-badge&logoColor=white">
+  </a>
+  <a href="https://portswigger.net/web-security/command-injection">
+    <img src="https://img.shields.io/badge/Command_Injection-8E44AD?style=for-the-badge&logoColor=white">
+  </a>
+  <a href="https://www.openwall.com/john/">
+    <img src="https://img.shields.io/badge/John_the_Ripper-333333?style=for-the-badge&logoColor=white">
+  </a>
 </div>
 
 ---
