@@ -78,8 +78,10 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
   <a href="https://cassandra.apache.org/doc/latest/">
     <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white">
   </a>
+  <a href="https://neo4j.com/docs/">
+    <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
+  </a>
 </div>
-
 
 ---
 
