@@ -4,7 +4,6 @@
 
 ---
 
-
 <h1 align="center">
   <img src="https://tenor.com/view/cats-cat-computer-gif-15556901.gif" alt="Coding GIF">
 </h1>
