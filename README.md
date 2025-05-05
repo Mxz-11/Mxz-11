@@ -237,7 +237,7 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
   <a href="https://github.com/Mxz-11">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://makerworld.com/en/@max_zgz">
+  <a href="https://makerworld.com/en/@mxz11">
     <img src="https://img.shields.io/badge/MakerWorld-00AEEF?style=for-the-badge&logo=makerworld&logoColor=white">
   </a>
   <a href="https://wuolah.com/profile/Mxz11">
