@@ -75,6 +75,10 @@ Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT 
   <a href="https://dev.mysql.com/doc/">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
+  <!-- Nuevo: SQLite -->
+  <a href="https://sqlite.org/docs.html">
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  </a>
   <a href="https://cassandra.apache.org/doc/latest/">
     <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white">
   </a>
