@@ -11,12 +11,12 @@
 ---
 
 ### 📖 About Me
-I consider myself a curious, analytical, and adaptable individual with a strong passion for technology and problem-solving. My experience working with diverse teams and engaging with people from different backgrounds has enhanced my ability to communicate effectively and collaborate seamlessly.
+I consider myself a curious, analytical and adaptable individual with a strong passion for technology and problem-solving.
 
 In my free time, I enjoy exploring new technologies, diving into cybersecurity challenges, and tinkering with hardware and software solutions. I’m always eager to learn and push my boundaries, whether it’s through coding, ethical hacking, or creative design projects.
-Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT Infrastructure and Networking. My experience with data analysis and automation provides me with a comprehensive perspective when tackling complex challenges.
+Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT Infrastructure and Networking.
 
-📫 Reach me at [alu.167442@usj.es](mailto:alu.167442@usj.es)  
+📫 Reach me at [gmail](mailto:max.val.alv@gmail.com)  
 
 ⚡ Fun fact: My profile picture is inspired by a Shiba Inu meme (with the studio ghibli style), the same breed as my dog! I chose it because I'm a huge dog lover. 🐶
 
