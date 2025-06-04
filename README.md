@@ -13,8 +13,8 @@
 ### 📖 About Me
 I consider myself a curious, analytical and adaptable individual with a strong passion for technology and problem-solving.
 
-In my free time, I enjoy exploring new technologies, diving into cybersecurity challenges, and tinkering with hardware and software solutions. I’m always eager to learn and push my boundaries, whether it’s through coding, ethical hacking, or creative design projects.
-Professionally, I’m particularly drawn to areas such as AI, cybersecurity, IT Infrastructure and Networking.
+In my free time, I enjoy exploring new technologies, diving into cybersecurity challenges and tinkering with hardware and software solutions. I’m always eager to learn and push my boundaries, whether it’s through coding, ethical hacking or creative design projects.
+Professionally, I’m particularly drawn to areas such as AI and cybersecurity.
 
 📫 Reach me at [gmail](mailto:max.val.alv@gmail.com)  
 
