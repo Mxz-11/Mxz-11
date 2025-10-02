@@ -58,7 +58,6 @@ Professionally, I’m particularly drawn to areas such as AI and cybersecurity.
   </a>
 </div>
 
-
 ---
 
 #### 💾 Databases
