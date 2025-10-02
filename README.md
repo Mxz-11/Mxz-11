@@ -18,7 +18,7 @@ Professionally, I’m particularly drawn to areas such as AI and cybersecurity.
 
 📫 Reach me at [gmail](mailto:max.val.alv@gmail.com)  
 
-⚡ Fun fact: My profile picture is inspired by a Shiba Inu meme (with the studio ghibli style), the same breed as my dog! I chose it because I'm a huge dog lover. 🐶
+⚡ Fun fact: My profile picture is inspired by a Shiba Inu meme (with the studio ghibli style), the same breed as my dog! I chose it because I'm a huge pet lover.
 
 ---
 
